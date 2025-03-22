@@ -1,4 +1,4 @@
-package com.halcyon.codeojbackend.model.dto;
+package com.halcyon.codeojbackend.model.dto.user;
 
 import lombok.Data;
 
