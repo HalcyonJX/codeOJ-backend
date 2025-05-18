@@ -35,4 +35,4 @@ knife4j:
         api-rule-resources:
           - com.halcyon.codeojbackend.controller
 codesandbox:
-  type: example
+  type: remote
